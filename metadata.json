@@ -1,0 +1,6 @@
+{
+  "name": "NewPulse — Global News Trend Intelligence System",
+  "description": "AI-powered data science platform for real-time news clustering, trend velocity detection, semantic story tracking, and evidence-backed explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
